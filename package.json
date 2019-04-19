@@ -1,0 +1,12 @@
+{
+  "id": "monday",
+  "name": "Monday.com",
+  "version": "1.0.0",
+  "description": "Monday.com",
+  "main": "index.js",
+  "author": "Ignacio Aroche <contacto@morfema.com.mx>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://auth.monday.com/login"
+  }
+}
